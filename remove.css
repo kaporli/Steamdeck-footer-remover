@@ -1,0 +1,9 @@
+.footer_BasicFooter_3T1iF {
+    background: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.footer_BasicFooter_3T1iF > *:not(button):not(a):not(span):not(div) {
+    display: none !important;
+}
