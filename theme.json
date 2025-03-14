@@ -1,0 +1,10 @@
+{
+    "name": "Footer Remover",
+    "author": "Kaporli",
+    "version": "1.0",
+    "target": "steamui",
+    "description": "This theme removes the footer but keeps the button/text prompts",
+    "inject": {
+        "remove.css": ["steamui"]
+    }
+}
