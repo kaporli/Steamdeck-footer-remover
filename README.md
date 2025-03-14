@@ -1,0 +1,1 @@
+# Steamdeck-footer-remover
